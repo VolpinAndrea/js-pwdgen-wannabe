@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.bg-sfondo{
+    background-image: url(img/cielo.png) ;
+}
+
+.bg-dati{
+    background-image: url(img/gal.jpg);
+    background-position: center;
+    /* background-size: 300px 150px; */
+    background-size: cover;
+    
+}
+.bg-fine{
+    background-image: url(img/buco.webp);
+    background-position: center;
+    background-size: cover;
+}

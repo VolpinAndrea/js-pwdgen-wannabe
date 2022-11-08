@@ -35,4 +35,10 @@ console.log(
     `     
 );
 
+document.getElementById("nome").innerHTML = nome;
+document.getElementById("cognome").innerHTML = cognome;
+document.getElementById("colore").innerHTML = colore;
+document.getElementById("calcolo").innerHTML = num1/num2;
+document.getElementById("password").innerHTML = password2;
+
 
